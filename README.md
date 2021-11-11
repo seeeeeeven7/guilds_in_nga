@@ -1,2 +1,2 @@
 # guilds_in_nga
-crawl and list all active guilds in NGA forum
+try to list all active guilds in NGA forum
